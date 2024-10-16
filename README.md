@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gandhiprajwal" alt="gandhiprajwal" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio Website](https://github.com/Gandhiprajwal/Portfolio.git)
+- 🔭 I’m currently working on [Portfolio Website](https://prajwalgandhi.engineer/)
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Git,Javascript,Java,CSS,Bootstrap,Flutter**
+- 💬 Ask me about **Git,Javascript,Java,CSS,Bootstrap,Flutter,React.js,MongoDB,Node.js,Express.js,Tailwind**
 
 - 📫 How to reach me **prajwalgandhi20@gmail.com**
 
