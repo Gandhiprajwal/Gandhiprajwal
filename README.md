@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Git,Javascript,Java,CSS,Bootstrap,Flutter**
 
-- 📫 How to reach me **gandhiprajwal6@gmail.com**
+- 📫 How to reach me **prajwalgandhi20@gmail.com**
 
 - ⚡ Fun fact **I am a bug maker**
 
